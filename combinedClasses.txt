@@ -1,0 +1,12 @@
+
+ 
+ **************************************************
+ Combined Classes of: F:\perspectives.txt and of: F:\social.txt are: 
+['AAA 200']
+['ANT 204']
+['GPY 235']
+['GSI 201']
+['LAS 210']
+['PLS 103']
+['PLS 211']
+['REL 100']
